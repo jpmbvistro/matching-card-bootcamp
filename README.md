@@ -20,3 +20,4 @@ https://lnkd.in/dBurpyq
 #Screenshots
 
 ![Application Screenshot](screenshot/full-screenshot.png)
+Screenshot of application in mobile view
