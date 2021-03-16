@@ -1,22 +1,22 @@
-# ♠️ Week08 Bootcamp2019a Project: Matching Card Game
+# Matching Card Game
 
-### Goal: Make a 10 card memory game - users must be able to select two cards and check if they are a match. If they are a match, they stay flipped. If not, they flip back over. Game is done when all cards are matched and flipped over. Example: http://www.fruit-burst.co.uk/fun-and-games/pairs-game 
+Card Matches and Classes
 
-### How to submit your code for review:
+## Description
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Made this application as an exercise in utilizing ES6 classes. I framed my class structure loosely from a MVC framework which encapsulates the interface away from the abstract objects. In this case, the card class handled the content and flipped state of the card, and the gameboard handled injecting the DOM interface with the card representations.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Luckily, the way I set up the code allowed me to quickly switch between card types and the number of cards on the screen, or utilize both. I decided to use screenshots of my other portfolio pieces for the alternate card types.
+
+## Work With Me
+
+If you would like to work with me, feel free to contact me through [my website](https://www.jpmbvistro.com), my [LinkedIn](https://www.linkedin.com/in/juan-justin-vistro/), or email me directly [jpmbvistro@gmail.com](mailto:JPMBVistro@gmail.com)
+
+
+#Deployed Site
+Feel free to take a look at the site yourself here:
+https://lnkd.in/dBurpyq
+
+#Screenshots
+
+![Application Screenshot](screenshot/full-screenshot.png)
